@@ -1,6 +1,11 @@
-# CMI18
-Creacion Multimedia Interactiva
+# Interacción Persona Ordenador   
+
+Recopilación de recursos y actividades realizadas dentro de la asignatura [Diseño de Interfaces de Usuario](https://lsi.ugr.es/lsi/node/969) de la ETSI de Ingeniería de Informática de la Universidad de Granada, 2020
 
 
-Proyectos realizado por:____________________________________________ en Grado de Bellas Artes de Granada
-CCBY 2018 
+
+
+
+
+
+CCBY @mgea 2020 
