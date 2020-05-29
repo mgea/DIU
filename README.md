@@ -1,6 +1,6 @@
 # UX for All 
 
-Recopilación de recursos y actividades realizadas dentro de la asignatura [Diseño de Interfaces de Usuario](https://lsi.ugr.es/lsi/node/969) de la ETSI de Ingeniería de Informática de la Universidad de Granada, 2020
+Recopilación de recursos y actividades realizadas dentro de la asignatura [Diseño de Interfaces de Usuario](https://lsi.ugr.es/lsi/node/969) de la ETSI de Ingeniería de Informática de la Universidad de Granada
 
 
 
@@ -25,4 +25,8 @@ Recopilación de recursos y actividades realizadas dentro de la asignatura [Dise
 
 
 
-CCBY @mgea, Junio 2020 
+
+
+----
+
+CCBY Equipo docente: [@mgea](https://github.com/mgea/), [@rosanamontes](https://github.com/rosanamontes) Junio 2020 
