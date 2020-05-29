@@ -6,7 +6,7 @@ Recopilación de recursos y actividades realizadas dentro de la asignatura [Dise
 
 ## Recursos 
 
-* [DIU20](https://github.com/mgea/DIU20) Plantilla (de repositorio de documentación en Github) para diseño y apoyo en prácticas 
+* [DIU20](https://github.com/mgea/DIU20) Plantilla (repositorio de documentación en Github) para diseño y apoyo en prácticas 
 * [UX-DIU-Toolkit](https://github.com/mgea/UX-DIU-Toolkit) Herramienta para diseño de experiencia de usuarios (personas y mapa de experiencia de usuario)
 * [UX-DIU-Checklist](https://github.com/mgea/UX-DIU-Checklist) Toolkit de apoyo para diseño y evaluación de prácticas. Online version: https://mgea.github.io/UX-DIU-Checklist 
 
