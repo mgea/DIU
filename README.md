@@ -1,7 +1,8 @@
-# UX for All 
+# UX Case Study 
 
 Recopilación de recursos y actividades realizadas dentro de la asignatura [Diseño de Interfaces de Usuario](https://lsi.ugr.es/lsi/node/969) de la ETSI de Ingeniería de Informática de la Universidad de Granada
 
+updated: 8/2/2021
 
 
 ## Recursos 
