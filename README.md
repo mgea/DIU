@@ -1,4 +1,4 @@
-# UX Case Study 
+# UX Case Study (hall of fame)
 
 Recopilación de recursos y actividades realizadas dentro de la asignatura [Diseño de Interfaces de Usuario](https://lsi.ugr.es/lsi/node/969) de la ETSI de Ingeniería de Informática de la Universidad de Granada
 
