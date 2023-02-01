@@ -2,7 +2,7 @@
 
 Recopilación de recursos y actividades realizadas dentro de la asignatura [Diseño de Interfaces de Usuario](https://lsi.ugr.es/lsi/node/969) de la ETSI de Ingeniería de Informática de la Universidad de Granada
 
-updated: 8/6/2021
+updated: 3/02/2023
 
 
 ## Recursos 
@@ -35,4 +35,4 @@ updated: 8/6/2021
 
 ----
 
-CCBY Equipo docente: [@mgea](https://github.com/mgea/), [@rosanamontes](https://github.com/rosanamontes) Febrero 2023 
+CCBY Equipo docente: [@mgea](https://github.com/mgea/), [@rosanamontes](https://github.com/rosanamontes) Febrero 2021-23 
