@@ -29,9 +29,10 @@ updated: 8/6/2021
 * **GranadaÁrabe** de [Grupo DIU3_LosArtistas](https://github.com/daniharo/DIU21/) La app GranadaÁrabe propone al usuario un conjunto de lugares y experiencias: gastronómicas, monumentales, actividades y paseos relacionados con la historia árabe que rodea a Granada.
 
 
+## Selección de trabajos del 2022 sobre Hostels
 
 
 
 ----
 
-CCBY Equipo docente: [@mgea](https://github.com/mgea/), [@rosanamontes](https://github.com/rosanamontes) Junio 2021 
+CCBY Equipo docente: [@mgea](https://github.com/mgea/), [@rosanamontes](https://github.com/rosanamontes) Febrero 2023 
