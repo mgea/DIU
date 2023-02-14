@@ -1,10 +1,6 @@
 
 
-
-
 ## Recursos DIU/UX
-
-upt. Feb 2023
 
 
 
@@ -281,7 +277,7 @@ upt. Feb 2023
 
 ---
 
-CCBY Miguel Gea, https://mgea.github.io/DIU/ Diseño de Interfaces de Usuario, 2021
+CCBY Miguel Gea, https://mgea.github.io/DIU/ Diseño de Interfaces de Usuario, updated, 10 feb 2021
 
 Universidad de Granada 
 
