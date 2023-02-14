@@ -7,9 +7,10 @@ updated: 3/02/2023
 
 ## Recursos 
 
-* [DIU20](https://github.com/mgea/DIU20) Plantilla (repositorio de documentación en Github) para diseño y apoyo en prácticas 
+* [DIU](https://github.com/mgea/DIU20) Plantilla (repositorio de documentación en Github) para diseño y apoyo en prácticas 
 * [UX-DIU-Toolkit](https://github.com/mgea/UX-DIU-Toolkit) Herramienta para diseño de experiencia de usuarios (personas y mapa de experiencia de usuario)
 * [UX-DIU-Checklist](https://github.com/mgea/UX-DIU-Checklist) Toolkit de apoyo para diseño y evaluación de prácticas. Online version: https://mgea.github.io/UX-DIU-Checklist 
+* [DIU RESOURCES](https://github.com/mgea/UX_CaseStudy/blob/master/DIU_Recursos.md) Recursos de inspiración, herramientas de apoyo al diseño 
 
 
 
