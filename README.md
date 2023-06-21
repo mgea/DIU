@@ -16,7 +16,6 @@ updated: 3/02/2023
 
 ## Selección de trabajos del 2020 sobre Economía Colaborativa
 
-
 * **Incontro**, de [Grupo DIU3.Learning](https://github.com/salva12345678/DIU) aplicación móvil a desarrollar que permite la organización de actividades en grupo que promueven la utilización de lenguas extranjeras
 * **Nature Sport**, de [Grupo DIU3.Workers](https://github.com/josalmer/DIU3_Workers)  permite a los usuarios organizar actividades deportivas (tales como trekking, montañismo o ciclismo), principalmente en entornos naturale
 * **Tabi Travel**, de [Grupo DIU1.QWERTY](https://github.com/Gsandoval96/DIU20) ayuda a encontrar viajes y compañeros de viaje alrededor de todo el mundo
@@ -32,13 +31,15 @@ updated: 3/02/2023
 
 ## Selección de trabajos del 2022 sobre Hostels
 
-
-
+* **Lima Housing** de [DIU1_sigma](https://github.com/SigmaDIU1/DIU)
+* **Shanring 4U** de [Diu3.07 Seven Deadly](https://github.com/PacoCP5/DIU)
 
 ## Selección de trabajos del 2023 sobre Tradiciones
 
-
 * **Artesanía nazarí** de [Grupo DIU3_Avisponalegre](https://github.com/jesusma3009/DIU3_AvisponAlegre)
+* **La alboreá rediseño** de [Grupo DIU1_Miau](https://github.com/VidalMiquel/DIU)
+
+  
 
 
 ----
