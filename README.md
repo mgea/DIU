@@ -38,6 +38,7 @@ updated: 3/02/2023
 
 * **Artesanía nazarí** de [Grupo DIU3_Avisponalegre](https://github.com/jesusma3009/DIU3_AvisponAlegre)
 * **La alboreá rediseño** de [Grupo DIU1_Miau](https://github.com/VidalMiquel/DIU)
+* **MyTourExplorer** de [Grupo DIU2_Polaco](https://github.com/Ismael034/DIU)
 
   
 
