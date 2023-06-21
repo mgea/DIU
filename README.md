@@ -34,6 +34,13 @@ updated: 3/02/2023
 
 
 
+
+## Selección de trabajos del 2023 sobre Tradiciones
+
+
+* **Artesanía nazarí** de [Grupo DIU3_Avisponalegre](https://github.com/jesusma3009/DIU3_AvisponAlegre)
+
+
 ----
 
 CCBY Equipo docente: [@mgea](https://github.com/mgea/), [@rosanamontes](https://github.com/rosanamontes) Febrero 2021-23 
