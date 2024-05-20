@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- PAGE settings -->
+  <link rel="icon" href="img/logo-ugr.png">
+  <title>Agenda UGR</title>
+  <meta name="keywords" content="Agenda universidad de granada bootstrap example template">
+  <meta name="author" content="Angel">
+  <!-- CSS dependencies -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="theme.css"> </head>
+
+<body>
+  <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-info">
+    <div class="container">
+      <a class="" href="index.html">
+        <img class="img-responsive" alt="UGR" width="150" src="img/agenda_ugr.png"> </a>
+      <!--<button class="navbar-toggler navbar-toggler-right collapsed custom-toggler" type="button" data-toggle="collapse" data-target="#navbar2SupportedContent" aria-controls="navbar2SupportedContent" aria-expanded="false" aria-label="Toggle navigation">-->
+      <button class="navbar-toggler navbar-toggler-right collapsed custom-toggler" type="button" data-toggle="collapse" data-target="#navbarAgenda">
+        <span class="navbar-toggler-icon"></span>
+        <span class="mx-1 cerrar">
+          <i class="fa d-inline fa-lg fa-times"></i>
+        </span>
+      </button>
+      <div class="collapse navbar-collapse text-center justify-content-between" id="navbarAgenda">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link mx-2" href="#">Información Contacto
+              <i class="ml-1 fa d-inline fa-lg fa-envelope"></i>
+            </a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle text-white" href="#" aria-expanded="false" aria-haspopup="true" data-toggle="dropdown" id="loginDropdown"> Log in </a>
+            <div class="dropdown-menu">
+              <form class="px-4 py-3">
+                <div class="form-group">
+                  <label for="loginDropdown">Email address</label>
+                  <input type="email" class="form-control" id="loginDropdown" placeholder="email@example.com"> </div>
+                <div class="form-group">
+                  <label for="loginDropdown">Password</label>
+                  <input type="password" class="form-control" id="loginDropdown" placeholder="Password"> </div>
+                <div class="form-check">
+                  <input type="checkbox" class="form-check-input" id="dropdownCheck" value="on">
+                  <label class="form-check-label" for="dropdownCheck"> Remember me </label>
+                </div>
+                <button type="submit" class="btn btn-primary">Sign in</button>
+              </form>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">New around here? Sign up</a>
+              <a class="dropdown-item" href="#">Forgot password?</a>
+            </div>
+          </li>
+        </ul>
+        <div class="form-inline">
+          <div class="form-group">
+            <input class="form-control" type="text" placeholder="Buscar..." style="margin-right: 0px !important; border-bottom-right-radius: 0;
+                                                                                     border-top-right-radius: 0;"> </div>
+          <a href="busqueda.html">
+            <button class="btn my-2 my-sm-0 search" type="submit">
+              <i class="fa d-inline fa-lg fa-search"></i>
+            </button>
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <div class="text-center pt-4 d-block">
+    <div data-ride="carousel" id="carousel-2" class="carousel slide">
+      <div class="carousel-inner" role="listbox">
+        <div class="carousel-item active">
+          <img class="imagen-carrusel d-block" src="img/expo_italia2.jpg" data-holder-rendered="true">
+          <div class="carousel-caption">
+            <p class="lead"> Exposición bibliográfica Tutta l’Italia </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="p-2">
+    <div class="container py-1">
+      <div class="row justify-content-center">
+        <div class="col-9 justify-content-center">
+          <span style="font-size:20px;">Descripción</span>
+          <p> Muestra bibliográfica en la que se recogen un total de 50 obras sobre Italia e impresas en Italia entre los siglos XVI al XVIII. Abarca disciplinas como la literatura, la lengua, la geografía, la filosofía, la medicina, la arquitectura, o la
+            Historia de Italia por citar algunas. </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-6 justify-content-center" style="white-space: wrap; text-align:center;">
+          <span style="font-size:20px;">Fechas</span>
+          <p> 20 de Mayo </p>
+        </div>
+        <div class="col-6 justify-content-center" style="white-space: wrap; text-align:center;">
+          <span style="font-size:20px;">Categoría</span>
+          <p> Exposición </p>
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <a class="btn btn-lg btn-primary m-2" href="evento.html">Reservar</a>
+      </div>
+      <div class="row">
+        <div class="col-6 justify-content-center" style="white-space: wrap; text-align:center;">
+          <a class="nav-link mx-2" href="#"> Ubicación
+            <i class="ml-1 fa d-inline fa-lg fa-map-marker"></i>
+          </a>
+        </div>
+        <div class="col-6 justify-content-center" style="white-space: wrap; text-align:center;">
+          <a class="nav-link mx-2" href="#"> Página Web
+            <i class="ml-1 fa d-inline fa-lg fa-external-link"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="p-2">
+    <div class="container py-1">
+      <div class="row justify-content-center">
+        <div class="col-12 my-2" style="text-align:center">
+          <span style="font-size:20px;">Eventos Relacionados</span>
+          <div class="container">
+            <div class="row justify-content-md-center my-3">
+              <div class="bg-dark p-1" style="width:20%">
+                <div class="date ">
+                  <span class="dia"> 20 de </span>
+                  <span class="mes"> MAYO </span>
+                </div>
+                <div class="reserva">
+                  <a href="evento.html"> Reservar&gt;</a>
+                </div>
+              </div>
+              <div class="bg-primary p-1" style=" background-size: cover; background-image: url(&quot;img/expo_italia2.jpg&quot;); width:80%">
+                <div class="informacion" style="background-color: #000000a3;">
+                  <a href="evento.html"> Exposición bibliográfica Tutta l’Italia </a>
+                  <span> Biblioteca Universitaria, Hospital Real. </span>
+                </div>
+              </div>
+            </div>
+            <div class="row justify-content-md-center my-3">
+              <div class="bg-dark p-1" style="width:20%">
+                <div class="date ">
+                  <span class="dia"> 15 de </span>
+                  <span class="mes"> MAYO </span>
+                </div>
+                <div class="reserva">
+                  <a href="evento.html"> Reservar&gt;</a>
+                </div>
+              </div>
+              <div class="bg-primary p-1" style=" background-size: cover; background-image: url(&quot;img/auladelmar.jpg&quot;); width:80%">
+                <div class="informacion" style="background-color: #000000a3;">
+                  <a href="evento.html"> Jornadas Ecocampus: Revalorización y limpieza de fondos marinos </a>
+                  <span> Playa La Rijana, Calahonda </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="bg-light py-3">
+    <div class="container">
+      <div class="row d-flex justify-content-center">
+        <div class="col-7">
+          <div class="container opciones">
+            <div class="row">
+              <div class="col-5">
+                <a class="text-dark" style="font-weight:bold" href="#">Contacto</a>
+                <a class="text-dark" style="font-weight:bold" href="#">Politica</a>
+              </div>
+              <div class="col-2">
+                <span>|</span>
+                <span>|</span>
+              </div>
+              <div class="col-5">
+                <a class="text-dark" style="font-weight:bold" href="#">Trabaja con nosotros</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row d-flex">
+      <div class="col-5">
+        <a class="" href="#">
+          <img class="img-responsive" alt="UGR" width="150" src="img/agenda_ugr.png"> </a>
+      </div>
+      <div class="col-5">
+        <div class="row text-center mt-2">
+          <div class="col-2 col-3">
+            <a href="#" target="_blank">
+              <i class="fa fa-facebook text-primary fa-2x"></i>
+            </a>
+          </div>
+          <div class="col-md-2 col-3">
+            <a href="#" target="_blank">
+              <i class="fa fa-twitter text-primary fa-2x"></i>
+            </a>
+          </div>
+          <div class="col-md-2 col-3">
+            <a href="#" target="_blank">
+              <i class="fa fa-instagram text-primary fa-2x"></i>
+            </a>
+          </div>
+          <div class="col-md-2 col-3">
+            <a href="#" target="_blank">
+              <i class="fa text-primary fa-2x fa-pinterest-p"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row ">
+      <div class="col-12" style="text-align:center;">
+        <p class="text-dark mt-2 mb-0">Copyright © Ángel Robledillo Perea &amp; Jorge Juan Ñiguez Fernandez</p>
+      </div>
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+
+</html>
