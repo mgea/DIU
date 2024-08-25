@@ -2,7 +2,7 @@
 
 Recopilación de recursos y actividades realizadas dentro de la asignatura [Diseño de Interfaces de Usuario](https://lsi.ugr.es/lsi/node/969) de la ETSI de Ingeniería de Informática de la Universidad de Granada
 
-updated: 3/02/2023
+updated: 21/08/2024
 
 
 ## Recursos 
@@ -40,7 +40,11 @@ updated: 3/02/2023
 * **La alboreá rediseño** de [Grupo DIU1_Miau](https://github.com/VidalMiquel/DIU)
 * **MyTourExplorer** de [Grupo DIU2_Polaco](https://github.com/Ismael034/DIU)
 
-  
+## Selección de trabajos del 2024 sobre Club de ocio 
+
+* **Comunidad LOL** de [Grupo DIU1_ETSIITosos](https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario)
+* **Comunidad LOL** [DIU3_02_DTR](https://github.com/Duva-01/DIU.DTR)
+
 
 
 ----
