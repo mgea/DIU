@@ -77,6 +77,8 @@
 * **Mobbin** : App Design pattern. https://mobbin.design
 * **UI Garage**. https://uigarage.net/ 
 * **Pttrns**, https://www.pttrns.com
+* **Screenlane** https://screenlane.com/
+* **Simform** (animated mobile pattern 2023) https://www.simform.com/mobile-patterns/ 
 
 
 
@@ -120,6 +122,8 @@
 * **Penpot** (open source prototyping tool) https://penpot.app/
 * **Protopie** http://protopie.io 
 * Lista de herramientas. https://uxtools.co/tools/design
+* * Design Tool Database 2022 (UXtools) https://uxtools.co/tools/design
+* Designer Survey 2023 (questionaire) https://uxtools.co/survey/2023/
 
 
 
@@ -131,6 +135,9 @@
 
   Fonts Ninja helps to identify fonts and provide information about them by checking available styles, foundry, and price. The algorithm examines the fonts as well as their CSS properties. https://www.fonts.ninja/
 
+* **GoFullPage** - Full Page Screen Capture, Captura página web completa a pdf/png con páginas complejas  https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=es-419
+
+
 * **Nimbus Screenshot & Screen Video Recorder** Screen Capture FULL Web page or any part. Edit screenshots. Record screencasts - record video from your screen https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=es	
 
 * **HTML to Figma**  by Builder.io  https://github.com/BuilderIO/figma-html
@@ -141,7 +148,20 @@
 
 * **Window resizer**  Resize the browser window to emulate various screen resolutions. https://coolx10.com/window-resizer/
 
-  
+
+
+#### Figma Resources 
+
+* ^ **html.to.design**: Figma import html https://www.figma.com/community/plugin/1159123024924461424/html-to-design
+
+* ^ **ghost**, converts mockups to placeholders https://www.figma.com/community/plugin/1017135840453013129
+* ^ **A18Y Contrast checker** [AY11 – Color Contrast checker](http://figma.com/c/plugin/733159460536249875/A11y---Color-Contrast-Checker(opens in a new tab))
+
+#### Responsive Design Testing 
+
+* Check (URL) in differents devices (free) https://responsivetesttool.com/
+
+
 
 #### Web design tools
 
@@ -161,6 +181,7 @@
 * **Milanote** (for Moodboard) http://www.milanote.com/   
 * **Miro** for Moodboard & ideation (https://miro.com/)  
 * **Figjam**, collaborative artboard de Figma https://www.figma.com/figjam/
+* **FlowMapp** (added 2024) Visual design for sitemap and User Flow https://www.flowmapp.com/  
 
 
 
@@ -279,6 +300,12 @@
 - **Laws of UX** [https://lawsofux.com](https://lawsofux.com/) 
 - **Cards for Humanity** A practical tool for inclusive design https://cardsforhumanity.idean.com
 - **UX cards challenges**. https://uxtools.co/challenges/
+
+#### **Vintage GUIS** 
+
+* https://guidebookgallery.org/ 
+
+* https://www.hudsandguis.com/
 
 
 
