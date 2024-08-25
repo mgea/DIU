@@ -22,10 +22,16 @@
 
 * **Lapa Ninja** landing pages & books  https://www.lapa.ninja/
 
+* **Godly** (web design inspirations) https://godly.website/
+
+* **Landingfolio** Landing Page Design Inspiration, https://www.landingfolio.com/
 
 
 
-**Doc & Video** 
+
+
+
+**Documentación & Video** 
 
 * UI Pin. **Web UI Design Best Practices** (ebook) https://www.immagic.com/eLibrary/ARCHIVES/GENERAL/UXPIN_PL/U141030B.pdf
 * **50 TIPS to improve User Interface** (ebook) https://fifty.user-interface.io/50_ui_tips.pdf  (AMM)
@@ -44,7 +50,8 @@
 
   https://www.uxcheck.co/
 
-* **Usability review checklist** (xls template ) http://www.uxforthemasses.com/usability-reviews/ 
+* **Usability review checklist** (xls template ) http://www.uxforthemasses.com/usability-reviews/
+* **UOC Design Toolkit** -https://design-toolkit.recursos.
 
 
 
