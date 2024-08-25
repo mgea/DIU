@@ -34,10 +34,14 @@
 **Documentación & Video** 
 
 * UI Pin. **Web UI Design Best Practices** (ebook) https://www.immagic.com/eLibrary/ARCHIVES/GENERAL/UXPIN_PL/U141030B.pdf
+
 * **50 TIPS to improve User Interface** (ebook) https://fifty.user-interface.io/50_ui_tips.pdf  (AMM)
+  
 * **Designing Mobile Apps** (ebook) https://appdesignbook.com
 * De la conferencia de desarrolladores Google I/O de este año se presentó la nueva versión de **Material Design** (que han llamado **Material You**) para su uso a partir de Android 12. https://www.youtube.com/watch?v=rLKtIGY2Mgc (DHC)
-* **Cómo escribir experiencias de usuario**, Video  (52 minutos): https://www.youtube.com/watch?v=uIcA4_JJmns.  (DHC)
+
+*  **Cómo escribir experiencias de usuario**, Video  (52 minutos): https://www.youtube.com/watch?v=uIcA4_JJmns.  (DHC)
+
 * Material design videos https://www.youtube.com/@materialdesign
 
 
