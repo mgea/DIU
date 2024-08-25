@@ -43,7 +43,7 @@ updated: 21/08/2024
 ## Selección de trabajos del 2024 sobre Club de ocio 
 
 * **Comunidad LOL** de [Grupo DIU1_ETSIITosos](https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario)
-* **Comunidad LOL** [DIU3_02_DTR](https://github.com/Duva-01/DIU.DTR)
+* **Comunidad L de Lectura** [DIU3_02_DTR](https://github.com/Duva-01/DIU.DTR)
 
 
 
