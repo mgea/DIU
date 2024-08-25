@@ -1,6 +1,8 @@
 
 
-## Recursos DIU/UX
+## Recursos UI/UX
+
+Recursos para el Diseño de Interacción y experiencia de usuario
 
 
 
