@@ -42,8 +42,12 @@ updated: 21/08/2024
 
 ## Selección de trabajos del 2024 sobre Club de ocio 
 
-* **Comunidad LOL** de [Grupo DIU1_ETSIITosos](https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario)
+* **Comunidad LOL** de [Grupo DIU3_ETSIITosos](https://github.com/JuanmiAcosta/Disenio_Interfaces_Usuario)
 * **Comunidad L de Lectura** [DIU3_02_DTR](https://github.com/Duva-01/DIU.DTR)
+* **Cooking From Home** [DIU2_PizzaConPionono](https://github.com/AlvareitorHD/DIU2)
+* **Mundo del Tablero** [DIU1.OlivasAndaluzas](https://github.com/jluisparrazor/DIU)
+
+
 
 
 
