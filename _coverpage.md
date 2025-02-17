@@ -1,8 +1,8 @@
 <!-- _coverpage.md -->
 
 
-# Comercio Sostenible 2024/25
-## UX Case Study
+# Diseño de Interfaces de Usuario 2024/25
+ 
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-### Prácticas de la asignatura Diseño de interfaces de Usuario
+### Contenido y recursos de la asignatura 
 
 #### ETSI Informática y Telecomunicación. Universidad de Granada, 2025
 
