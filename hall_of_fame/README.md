@@ -4,7 +4,7 @@ Recopilación de recursos y actividades realizadas dentro de la asignatura [Dise
 
 updated: 21/02/2025
 
-[<Volver](https://mgea.github.io/DIU/)
+[<Volver](./../README.md) [alt](https://mgea.github.io/DIU/)
 
 
 ## Recursos 
