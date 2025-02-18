@@ -8,9 +8,11 @@ Curso 2024/25
 
 1 - Introducción 
 
-    [Principios de Diseño](https://excalidraw.com/#json=Te-VfGEuXlndsuY6sCTRB,046qapc4yU1q3JDwhXBkGQ) 
+* [Principios de Diseño](https://excalidraw.com/#json=Te-VfGEuXlndsuY6sCTRB,046qapc4yU1q3JDwhXBkGQ) 
 
 
+
+* [FUI: Fictional User Interfaces](https://www.hudsandguis.com/) - [Book](https://www.hudsandguis.com/fui)
 
 
 
