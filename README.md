@@ -2,6 +2,9 @@
 
 Curso 2024/25
 
+* [Guía Docente](GuiaDocente.md) 
+
+
 
 ## Recursos 
 
