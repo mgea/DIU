@@ -85,7 +85,7 @@ Recursos y utilidades:
 - Dix A., Finlay J., Abowd G., Beale R.: Human-Computer Interaction, 3ª ed. Prentice Hall, 2003.
 
 * Sharp, H, Rogers, Y: Preece, J (2023): **Interaction Design: Beyond Human Computer interaction**, 6ª ed. John Wiley & Sons, 2023
-	[BiblioUgr](https://learning.oreilly.com/library/view/interaction-design-6th/9781119901099/cover.xhtml) 
+	[BiblioUgr]([https://learning.oreilly.com/library/view/interaction-design-6th/9781119901099/cover.xhtml](https://granatensis.ugr.es/discovery/fulldisplay?docid=alma991014770804404990&context=L&vid=34CBUA_UGR:VU1&lang=es&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&isFrbr=true&tab=Granada&query=any,contains,Sharp%20Rogers%20Preece&sortby=date_d&facet=frbrgroupid,include,374345906394404&offset=0)) 
 
 
 ## Evaluación
