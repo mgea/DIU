@@ -30,6 +30,11 @@ Curso 2024/25
 
 
 
-CCBYNCSA Miguel Gea, updated: 21/08/2024
+
+
+
+<br> 
+
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="75" > Miguel Gea, updated: 18/02/2025
 
 
