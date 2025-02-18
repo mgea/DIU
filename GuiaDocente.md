@@ -2,6 +2,11 @@
 ## Diseño de Interfaces de Usuario: Guía Docente 
 ETSI Informática y Telecomunicación, Universidad de Granada
 
+https://github.com/mgea/DIU/
+
+https://github.com/mgea/UX_CaseStudy
+
+
 > [Descripción](https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica/diseno-interfaces-usuario-ing-software) oficial de la asignatura
 
 ## Contenidos / Temario
