@@ -3,6 +3,7 @@
 Curso 2024/25
 
 * [Guía Docente](GuiaDocente.md)
+* [Planificación](planificacion.md)
 
 ## Contenidos
 
