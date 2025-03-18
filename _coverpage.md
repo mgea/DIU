@@ -6,7 +6,7 @@
 
 
 
-<img align="center" src="./logo_diu20_2.png" width="600" height=auto alt="Logotipo"/>
+<img align="center" src="./img/logo_diu20_2.png" width="600" height=auto alt="Logotipo"/>
 
 
 
