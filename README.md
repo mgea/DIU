@@ -4,7 +4,8 @@ Curso 2024/25
 
 * [Guía Docente](GuiaDocente.md)
 * [Planificación](planificacion.md)
-
+* [Wiki](https://github.com/mgea/DIU/wiki)
+  
 ## Contenidos
 
 1 - Introducción 
