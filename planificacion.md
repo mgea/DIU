@@ -15,4 +15,4 @@ PLANIFICACION 2024/25: 3º Grado Informatica
 | 7    | 4. Estrategias diseño (layout)                        |  Layout Web Design              | AutoLayout / componentes  |   | P2       |
 | 8    |    Color                                   |  Lenguaje Visual                               | Moodboard                         |  Web design checklist  | P3       |
 | SS    |    SEMANA SANTA                                  |                                 |                          |   |        |
-| 9    | Moodboard                        |                |   | Moodboard inspiration    | P2       |
+| 9    | Moodboard                        |                |   | Moodboard inspiration    | P3       |
