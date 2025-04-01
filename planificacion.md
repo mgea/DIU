@@ -12,6 +12,6 @@ PLANIFICACION 2024/25: 3º Grado Informatica
 | 4    | 3. Diseño Centrado en el Usuario                      | UX Research & toolkits          | Empathy Map & Rol Play |            | P1       |
 | 5    | 3. Ideación & Prototipado                             | Escenarios  / Wireframing       | (Apego / Motivation)    |            | P2       |
 | 6    | 4. Estrategias (intro)                                | Wireframes & Mockups / Figma    |                         |            | P2       |
-| 7    | 4. Estrategias diseño (layout)                        |  Layout Web Design              |  Figma AutoLayout / componentes  |   | P2       |
-| 8    |    Color / Moodboard                                  |                                 |                          |   | P3       |
+| 7    | 4. Estrategias diseño (layout)                        |  Layout Web Design              | AutoLayout / componentes  |   | P2       |
+| 8    |    Color / Moodboard                                  |                                 | Moodboard                         |   | P3       |
 | SS    |    SEMANA SANTA                                  |                                 |                          |   |        |
