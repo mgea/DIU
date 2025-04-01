@@ -14,3 +14,4 @@ PLANIFICACION 2024/25: 3º Grado Informatica
 | 6    | 4. Estrategias (intro)                                | Wireframes & Mockups / Figma    |                         |            | P2       |
 | 7    | 4. Estrategias diseño (layout)                        |  Layout Web Design              |  Figma AutoLayout / componentes  |   | P2       |
 | 8    |    Color / Moodboard                                  |                                 |                          |   | P3       |
+| SS    |    SEMANA SANTA                                  |                                 |                          |   |        |
