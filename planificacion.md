@@ -13,6 +13,6 @@ PLANIFICACION 2024/25: 3º Grado Informatica
 | 5    | 3. Ideación & Prototipado                             | Escenarios  / Wireframing       | (Apego / Motivation)    |            | P2       |
 | 6    | 4. Estrategias (intro)                                | Wireframes & Mockups / Figma    |                         |            | P2       |
 | 7    | 4. Estrategias diseño (layout)                        |  Layout Web Design              | AutoLayout / componentes  |   | P2       |
-| 8    |  Layout Web Design (cont.) * landing page                                    |  Lenguaje Visual                               | Moodboard                         |  Web design checklist  | P3       |
+| 8    |  Layout Web Design (cont.) * landing page                                    |  Lenguaje Visual                               | Checklist Design                         |  Web design checklist  | P3       |
 | SS    |                                       |                                 |                          |   |        |
 | 9    | Moodboard   + Color                        |                |   | Moodboard inspiration    | P3       |
