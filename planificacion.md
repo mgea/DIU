@@ -15,4 +15,4 @@ PLANIFICACION 2024/25: 3º Grado Informatica
 | 7    | 4. Estrategias diseño (layout)                        |  Layout Web Design              | AutoLayout / componentes  |   | P2       |
 | 8    |  Layout Web Design (cont.) * landing page                                    |  Lenguaje Visual                               | Checklist Design                         |  Web design checklist  | P3       |
 | SS    |                                       |                                 |                          |   |        |
-| 9    | Moodboard   + Color                        |                |   | Moodboard inspiration    | P3       |
+| 9    |  Color + Tipografía                        |         Moodboard         |   | Moodboard inspiration    | P3       |
