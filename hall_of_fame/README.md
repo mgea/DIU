@@ -50,8 +50,9 @@ updated: 21/02/2025
 * **Mundo del Tablero** [DIU1.OlivasAndaluzas](https://github.com/jluisparrazor/DIU)
 *  **Club de Lectura** [DIU3.FETON'T](https://carmenxufdz.github.io/DIU24/#/)  (usando Docsify) 
 
+## Selección 2025 sobre Reciclaje y Gastronomía 
 
-
+* **Moda-re** de [Grupo DIU3.Duros](https://github.com/DIU3-Duros/UX_CaseStudy)
 
 
 ----
