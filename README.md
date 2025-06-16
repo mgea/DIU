@@ -27,7 +27,7 @@ Curso 2024/25
 * [UX-DIU-Checklist](https://github.com/mgea/UX-DIU-Checklist) Toolkit de apoyo para diseño y evaluación de prácticas. Online version: https://mgea.github.io/UX-DIU-Checklist 
 * [DIU RESOURCES](https://github.com/mgea/UX_CaseStudy/blob/master/DIU_Recursos.md) Recursos de inspiración, herramientas de apoyo al diseño 
 
-* [Hall of fame](./hall_of_fame/README.md) [alt](https://mgea.github.io/DIU/#/hall_of_fame/)
+* [**Hall of fame**](./hall_of_fame/README.md) [alt](https://mgea.github.io/DIU/#/hall_of_fame/)
   Recopilación de recursos y actividades realizadas dentro de la asignatura [Diseño de Interfaces de Usuario](https://lsi.ugr.es/lsi/node/969) de la ETSI de Ingeniería de Informática de la
 
 
