@@ -55,6 +55,7 @@ updated: 21/02/2025
 * Basados en moda-re, rediseño (https://modare.org/) 
   * **Moda-re: Puntos de recogida de la comunidad** de [Grupo DIU3.Duros](https://github.com/DIU3-Duros/UX_CaseStudy)
   * **Moda-re: programa de donaciones** [Grupo DIU3.natpa](https://github.com/DIU3-natpa/UX_CaseStudy)  
+* **Re-Made in Granada** de [DIU3_Chapuzas](https://github.com/DIU3-Chapuzas/UX_CaseStudy)
 * **Aliño** [Grupo1.AGD](https://github.com/agd03/DIU_Practicas)
 * **Artea** [Grupo3.Clave](https://github.com/DIU3-CLAVE/UX_CaseStudy)
 
