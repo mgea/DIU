@@ -61,4 +61,4 @@ updated: 21/02/2025
 
 ----
 
-CCBY Equipo docente: [@mgea](https://github.com/mgea/), [@rosanamontes](https://github.com/rosanamontes) [@deantares](https://github.com/deantares)  Junio 2020-23 
+CCBY Equipo docente: [@mgea](https://github.com/mgea/), [@rosanamontes](https://github.com/rosanamontes) [@deantares](https://github.com/deantares)  Junio 2020-26
