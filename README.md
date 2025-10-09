@@ -25,7 +25,7 @@ Curso 2024/25
 * [UX_CaseStudy](https://github.com/mgea/UX_CaseStudy) [alt](https://mgea.github.io/UX_CaseStudy/) Plantilla (repositorio de documentación en Github) para diseño y apoyo en prácticas 
 * [UX-DIU-Toolkit](https://github.com/mgea/UX-DIU-Toolkit) Herramienta para diseño de experiencia de usuarios (personas y mapa de experiencia de usuario)
 * [UX-DIU-Checklist](https://github.com/mgea/UX-DIU-Checklist) Toolkit de apoyo para diseño y evaluación de prácticas. Online version: https://mgea.github.io/UX-DIU-Checklist 
-* [DIU RESOURCES](https://github.com/mgea/UX_CaseStudy/blob/master/DIU_Recursos.md) Recursos de inspiración, herramientas de apoyo al diseño
+* [DIU RESOURCES]([[https://github.com/mgea/UX_CaseStudy/blob/master/DIU_Recursos.md](https://github.com/mgea/DIU/blob/master/DIU_Recursos.md)](https://github.com/mgea/DIU/blob/master/DIU_Recursos.md)) Recursos de inspiración, herramientas de apoyo al diseño
 
 
 ## HALL OF FAME 
