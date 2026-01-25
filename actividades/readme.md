@@ -7,6 +7,6 @@ Diseño de Interfaces de Usuario
 Ejercicios de UX, diseño y programación de UI 
 
 
-- [Vibe Code](plantabaja.md)
+- [Vibe Coding PlantaBaja](plantabaja.md)
 
 
