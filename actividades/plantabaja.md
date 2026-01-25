@@ -6,7 +6,7 @@ Qué es: https://www.visily.ai/vibe-designing/
 CASO: 
 * Plantabaja https://plantabaja.club/
 * Figma Make https://gong-attic-81664024.figma.site
-* v 1.0 25/01/2026 
+
 
  
 
@@ -14,7 +14,8 @@ CASO:
 
 * Simular web existente (layout) con imágenes originales.
 * Incuir/mejorar elementos de diseño (cards, navegación)
-* Modificar estilo  visual (fonts, iconos, ...) 
+* Modificar estilo  visual (fonts, iconos, ...)
+* v 1.0 25/01/2026 
 * Duración total 45min+ 
 
 
