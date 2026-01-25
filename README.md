@@ -43,6 +43,6 @@ Recopilación de **mejores prácticas realizadas dentro de la asignatura** [Dise
 
 <br> 
 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="75" > Miguel Gea, updated: 9/10/2025
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="75" > Miguel Gea, updated: 2026
 
 
