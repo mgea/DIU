@@ -27,7 +27,7 @@ Curso 2024/25
 * [UX-DIU-Checklist](https://github.com/mgea/UX-DIU-Checklist) Toolkit de apoyo para diseño y evaluación de prácticas. Online version: https://mgea.github.io/UX-DIU-Checklist 
 * [DIU RESOURCES](https://github.com/mgea/DIU/blob/master/DIU_Recursos.md) Recursos de inspiración, herramientas de apoyo al diseño
 * 
-* [Actividades](./actividades)
+* [Actividades de clase](./actividades/readme.md)
 
 ## HALL OF FAME 
 
