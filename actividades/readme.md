@@ -1,7 +1,7 @@
 # ACTIVIDADES
 Diseño de Interfaces de Usuario 
 
-[< Volver](./../readme.md) 
+[< Volver](./../README.md) 
 
 
 Ejercicios de UX, diseño y programación de UI 
