@@ -1,6 +1,6 @@
 # DIU: Diseño de Interfaces de Usuario 
 
-Curso 2024/25
+Curso 2025/26
 
 * [Guía Docente](GuiaDocente.md)
 * [Planificación](planificacion.md)
