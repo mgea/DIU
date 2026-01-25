@@ -6,6 +6,8 @@ Qué es: https://www.visily.ai/vibe-designing/
 CASO: 
 * Plantabaja https://plantabaja.club/
 * Figma Make https://gong-attic-81664024.figma.site
+* v 1.0 25/01/2026 
+
  
 
 ## Diseño de web usando Figma Make 
@@ -37,7 +39,9 @@ Would you like me to help you connect to Supabase to add backend functionality f
 
 ### 2  Logotipo 
 
-``Cambiar por un logotipo usando letras Pb en blanco estilo futurista
+```
+Cambiar por un logotipo usando letras Pb en blanco estilo futurista
+```
 
 I'll replace the Music icon with a futuristic "Pb" logo in white letters.
 
@@ -51,7 +55,9 @@ Perfecto! He cambiado el logotipo del ícono de música a las letras "Pb" en bla
 
 El logotipo mantiene el mismo comportamiento interactivo y se integra perfectamente con el diseño existente de PlantaBaja.
 
-`` use this as inspiration
+```
+use this image as inspiration
+```
 
 Perfecto! Voy a actualizar el logotipo usando la imagen de inspiración que proporcionaste.
 
@@ -68,7 +74,10 @@ Perfecto! Voy a actualizar el logotipo usando la imagen de inspiración que prop
 
 El diseño captura la estética futurista y tecnológica manteniendo la identidad visual de PlantaBaja.
 
-``Use this logo
+```
+Use this logo
+```
+
 
 Perfecto! Voy a r**eemplazar el logotipo con la imagen** que proporcionaste.
 
@@ -76,13 +85,18 @@ Perfecto! Voy a r**eemplazar el logotipo con la imagen** que proporcionaste.
 
 ### 3  Cambiar contenido (imgs y texto)
 
-``cambiar blog por Noticias
+```
+cambiar blog por Noticias
+```
+
 
 Perfecto! Voy a cambiar "Blog" por "Noticias" en la navegación.
 
 ¡Listo! He cambiado "Blog" por "Noticias" en el botón de navegación. Ahora el menú muestra "Noticias" en lugar de "Blog".
 
-``cambia imagen de fondo del hero section por la seleccionada``
+```
+cambia imagen de fondo del hero section por la seleccionada
+```
 
 I'll update the **hero section to use your selected background image**. Let me first check the current structure of the App.tsx file.
 
@@ -90,13 +104,20 @@ Perfect! I've successfully updated the hero section to use your selected backgro
 
 ### 4  Cards
 
-``Cambia tres primeras cards por estas imágenes
+<img src="https://plantabaja.club/wp-content/uploads/2026/01/IMG_2539.jpeg" height="150"> <img src="https://plantabaja.club/wp-content/uploads/2025/12/cartel-COUNTRY-GIRL.jpeg" height="150">
+
+```
+Cambia tres primeras cards por estas imágenes
+```
+
 
 I'll update the **first three concert cards** to use your custom event images. Let me first check the Agenda component to see where the concert data is stored.
 
 Perfect! I've successfully updated the first three concert cards with your custom PlantaBaja event images. The cards now feature Patín Piti (DJ Session), HINDS + CARMENCORE (Indie Rock concert), and Country Girl (DJ Session), each with their authentic event posters. The dates and times have been updated to match the information shown in the images, and all remaining concerts are preserved in the agenda.
 
-``Cambia las 3 siguientes cards de concert agenda por las imagenes con informacion seleccionadas
+```
+Cambia las 3 siguientes cards de concert agenda por las imagenes con informacion seleccionadas
+```
 
 
 I'll update the **next three concert cards** with your selected event images and information.
@@ -111,7 +132,9 @@ All six events now showcase authentic PlantaBaja event posters with updated date
 
 ### 5  Tipografía
 
+```
 cambiar font de Hero header "Plantabaja Your underground music hub" por esta fuente https://www.dafont.com/es/nasalization.font
+```
 
 I can't directly download font files from external URLs. To use the Nasalization font, you'll need to provide the font file itself.
 
@@ -132,7 +155,10 @@ Would you like me to:
 
 Let me know your preference!
 
-``usa orbitron
+```
+usa orbitron
+```
+
 
 I'll update the Hero section to use the Orbitron font. Let me first check the current styles setup:
 
@@ -140,7 +166,10 @@ Perfect! I've successfully updated the Hero section to use the Orbitron font. Th
 
 ### 6  Footer
 
-``Cambiar footer "© 2026 PlantaBaja. All rights reserved. Live music, live moments." por "CCBY mgea using Figma Make v1.0 2026"
+```
+Cambiar footer "© 2026 PlantaBaja. All rights reserved. Live music, live moments." por "CCBY mgea using Figma Make v1.0 2026"
+```
+
 
 I'll update the footer text for you. Let me first check the current Footer component:
 
@@ -149,7 +178,9 @@ Perfect! I've updated the footer text to "CCBY mgea using Figma Make v1.0 2026" 
 ### 7 Noticias: card
 
 
-``Primera card de noticias es esta imagen, el texto es XII CONCURSO DE BANDAS Y ARTISTAS GRANADINOS “ EMERGENTES 2025”
+```
+Primera card de noticias es esta imagen, el texto es XII CONCURSO DE BANDAS Y ARTISTAS GRANADINOS “ EMERGENTES 2025”
+```
 
 Voy a actualizar la primera tarjeta de noticias con la imagen y el texto del concurso. Primero déjame ver el componente de Blog:
 
@@ -160,11 +191,19 @@ Perfecto! He actualizado la primera tarjeta de noticias con la imagen del XII Co
 
 Dificultades para generar imágenes 
 
-* ``cambiar icono de hero section por una guitarra electrica tocada por un hombre con forma de granada 
+* ``cambiar icono de hero section por una guitarra electrica tocada por un hombre con forma de granada`` 
 
-* ``reemplaza por una silueta de guitarra electrica en tono naranja/negro con pequeño efecto de movimiento
+* ``reemplaza por una silueta de guitarra electrica en tono naranja/negro con pequeño efecto de movimiento``
 
-* ``cambiar logo por esta imagen
+* ``cambiar logo por esta imagen``
+
+
+### 8 Pendiente 
+
+* sección de Cómo llegar (mapa)
+* Comprender e integrar submenu de eventos de tipo: Conciertos - Clubs - DJs
+
+
 
 
 
