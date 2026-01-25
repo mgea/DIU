@@ -1,5 +1,4 @@
-# ACTIVIDADES
-Diseño de Interfaces de Usuario 
+**Diseño de Interfaces de Usuario: Actividades**  
 
 [< Volver](./../README.md) 
 
