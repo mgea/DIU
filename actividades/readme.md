@@ -9,6 +9,6 @@
 
 ### Diseño con Vibe Coding 
 
-- [Vibe Coding PlantaBaja](plantabaja.md)
+- [Vibe Coding PlantaBaja](./plantabaja.md)
 
 
