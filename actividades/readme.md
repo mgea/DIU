@@ -9,6 +9,6 @@
 
 ### Diseño con Vibe Coding 
 
-- [Vibe Coding PlantaBaja](./../actividades/plantabaja.md)
+- [Vibe Coding PlantaBaja](./actividades/plantabaja.md)
 
 
