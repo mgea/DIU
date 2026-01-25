@@ -1,4 +1,4 @@
-# Vibe Code - Plantabaja
+# Vibe Coding - Plantabaja
 
 Qué es:
 * What is Vibe Design?  https://www.visily.ai/vibe-designing/ 
