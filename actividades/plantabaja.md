@@ -198,11 +198,18 @@ Dificultades para generar imágenes
 * ``cambiar logo por esta imagen``
 
 
-### 8 Pendiente 
+### 9 Pendiente 
 
 * sección de Cómo llegar (mapa)
 * Comprender e integrar submenu de eventos de tipo: Conciertos - Clubs - DJs
 
+
+
+
+
+<br> 
+
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="75" > Miguel Gea, updated: 25/1/2026
 
 
 
