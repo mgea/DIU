@@ -26,7 +26,8 @@ Curso 2024/25
 * [UX-DIU-Toolkit](https://github.com/mgea/UX-DIU-Toolkit) Herramienta para diseño de experiencia de usuarios (personas y mapa de experiencia de usuario)
 * [UX-DIU-Checklist](https://github.com/mgea/UX-DIU-Checklist) Toolkit de apoyo para diseño y evaluación de prácticas. Online version: https://mgea.github.io/UX-DIU-Checklist 
 * [DIU RESOURCES](https://github.com/mgea/DIU/blob/master/DIU_Recursos.md) Recursos de inspiración, herramientas de apoyo al diseño
-
+* 
+* [Actividades](./actividades)
 
 ## HALL OF FAME 
 
