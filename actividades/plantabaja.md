@@ -1,7 +1,8 @@
-# Vibe Design - Plantabaja
+# Vibe Code - Plantabaja
 
-Qué es: https://www.visily.ai/vibe-designing/ 
-
+Qué es:
+* What is Vibe Design?  https://www.visily.ai/vibe-designing/ 
+* Build apps with a vibe coding tool in Figma Make https://www.figma.com/solutions/vibe-coding-tool/
 
 CASO: 
 * Plantabaja https://plantabaja.club/
