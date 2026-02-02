@@ -24,7 +24,9 @@ Curso 2025/26
 
 * [UX_CaseStudy](https://github.com/mgea/UX_CaseStudy) [alt](https://mgea.github.io/UX_CaseStudy/) Plantilla (repositorio de documentación en Github) para diseño y apoyo en prácticas 
 * [UX-DIU-Toolkit](https://github.com/mgea/UX-DIU-Toolkit) Herramienta para diseño de experiencia de usuarios (personas y mapa de experiencia de usuario)
-* [UX-DIU-Checklist](https://github.com/mgea/UX-DIU-Checklist) Toolkit de apoyo para diseño y evaluación de prácticas. Online version: https://mgea.github.io/UX-DIU-Checklist 
+* [UX-DIU-Checklist](https://github.com/mgea/UX-DIU-Checklist) Toolkit de apoyo para diseño y evaluación de prácticas. Online version: https://mgea.github.io/UX-DIU-Checklist
+
+* [GazeMapping](https://github.com/mgea/GazeMapping) Web Eye Tracking Analysis & Heatmap Visualization tool especialmente diseñado para la parte de técnicas de Usabilidad de la asignatura ``[new 2026]``
 * [DIU RESOURCES](https://github.com/mgea/DIU/blob/master/DIU_Recursos.md) Recursos de inspiración, herramientas de apoyo al diseño
 * 
 * [Actividades de clase](./actividades/readme.md)
@@ -34,7 +36,7 @@ Curso 2025/26
 * [**Hall of fame**](./hall_of_fame/README.md)
 * [Hall of fame en modo Web](https://mgea.github.io/DIU/#/hall_of_fame/)
 
-Recopilación de **mejores prácticas realizadas dentro de la asignatura** [Diseño de Interfaces de Usuario](https://lsi.ugr.es/lsi/node/969) de la ETSI de Ingeniería de Informática de Universidad de Granada
+Recopilación de **mejores prácticas realizadas dentro de la asignatura** [Diseño de Interfaces de Usuario](https://lsi.ugr.es/docencia/grados/grado-ingenieria-informatica/diseno-interfaces-usuario-e-ing-software) de la ETSI de Ingeniería de Informática de Universidad de Granada
 
 
 
