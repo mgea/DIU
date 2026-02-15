@@ -1,6 +1,6 @@
 
 ## Diseño de Interfaces de Usuario: Guía Docente 
-ETSI Informática y Telecomunicación, Universidad de Granada
+ETSI Informática y Telecomunicación, Universidad de Granada, Feb 2026
 
 
 > [Descripción](https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica/diseno-interfaces-usuario-ing-software) oficial de la asignatura
@@ -10,59 +10,58 @@ ETSI Informática y Telecomunicación, Universidad de Granada
 ### Temario
 
 - La Interacción persona-ordenador (HCI)
-    
+  
 - Los Sistemas interactivos
-    
+  
 - Diseño Centrado en el Usuario
-    
+  
 - Estrategias de diseño
-    
+  
 - Usabilidad y evaluación.
-    
+  
 - Nuevas tendencias
-    
+  
 
 ### Seminarios
 
 - Una mirada al futuro
-    
+  
 - La experiencia del Usuario (UX)
-    
+  
 - Diseño de Objetos Cotidianos
-    
+  
 - Prototipado & wireframing
-    
+  
 - Layout Web design.
-    
+  
 - Componentes IU & Guidelines
-    
+  
 - Patrones y tareas de Interacción
-    
+  
 - UI Frameworks
-    
+  
 - Accesibilidad
-    
+  
 - UX Case Study
-    
+  
 
 ### Prácticas
-Guiones de prácticas curso 2024/25
+Guiones de prácticas curso 2025/26
 
-| Pract. | Descripción                                                                                                                           | Sesiones | Entrega |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------- |
-| P1     | [Revision IU/Usabilidad](Practica1.md)  [alt](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica1.md)                    | 2        | 14/03   |
-| P2     | [Ideación/Diseño](Practica2.md) [alt](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica2.md)                            | 3        | 04/04   |
-| P3     | [Prototipado](Practica3.md)   [alt](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica3.md)                              | 3        | 09/05   |
-| P4     | [Evaluación Usabilidad: A/B y Eye tracking](Practica4.md)  [alt](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica4.md) | 2        | 23/05   |
-| P5     | [Componentes UI](Practica5.md)   [alt](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica5.md)                           | 2        | 20/05   |
+| Pract. | Descripción                                                  | Sesiones | Entrega |
+| ------ | ------------------------------------------------------------ | -------- | ------- |
+| P1     | [Revision IU/Usabilidad](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica1.md) | 2        | 14/03   |
+| P2     | [Ideación/Diseño](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica2.md) | 3        | 04/04   |
+| P3     | [Prototipado](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica3.md) | 3        | 09/05   |
+| P4     | [Componentes UI](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica5.md) | 2        | 23/05   |
+| P5     | [Evaluación Usabilidad: A/B y Accesibilidad](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica4.md) | 2        | 20/05   |
 
 
 ## Material docente de apoyo
 
-
 **Recursos docentes**, comunicados, entregas:
 
-* [PRADO UGR](https://pradogrado2425.ugr.es/) (plataforma oficial UGR)
+* [PRADO UGR](https://pradogrado2526.ugr.es/) (plataforma oficial UGR)
 
 **Github**: Espacio de trabajo 
 
@@ -79,6 +78,8 @@ Recursos y utilidades:
 ## Bibliografía
 
 * Asociación Interacción Persona Ordenador [https://aipo.es/](https://aipo.es/) 
+* ACM SIGCHI Special Interest Group *on*Computer-Human Interaction https://sigchi.org/ 
+
 > Lorés J. (ed.), J. Abascal, J. J. Cañas, M.Gea, A.B. Gil, A.B. Martínez, M. Ortega, P. Valero, M. Vélez. **Interacción Persona-Ordenador**. Libro digital. ISBN: 84-607-2255-4, AIPO. [https://aipo.es/educacion/material-editado-por-aipo/](https://aipo.es/educacion/material-editado-por-aipo/)
 
 - Shneiderman B., Plaisant C., Cohen M., Jacobs S., Elmqvist N. (2017) Designing the User Interface: Strategies for Effective Human-Computer Interaction Sixth Edition, Pearson
@@ -87,15 +88,19 @@ Recursos y utilidades:
 
 * Sharp, H, Rogers, Y: Preece, J (2023): **Interaction Design: Beyond Human Computer interaction**, 6ª ed. John Wiley & Sons, 2023
 	[BiblioUgr](https://granatensis.ugr.es/discovery/fulldisplay?docid=alma991014770804404990&context=L&vid=34CBUA_UGR:VU1&lang=es&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&isFrbr=true&tab=Granada&query=any,contains,Sharp%20Rogers%20Preece&sortby=date_d&facet=frbrgroupid,include,374345906394404&offset=0)
+	
+	
+
+
 
 
 ## Evaluación
 
 **Evaluación continua** basado en proyectos/prácticas
 
-- Un conjunto de 5 prácticas (obligatorias) (50%)
+- Un conjunto de **5 prácticas (obligatorias)** (50%)
 
-- Ejercicios y prácticas en clase (25%)
+- **Ejercicios y prácticas en clase** (25%)
 
 >Actividad 1: Etnografía
 > Actividad en clase 2: Web design checklist
@@ -103,7 +108,7 @@ Recursos y utilidades:
 > Actividad 4: Usabilidad
 > Actividad en clase 5: Accesibilidad
 
-- Un examen/ejercicio final (25%)
+- **Un examen/ejercicio final** (25%)
 
 
 **Evaluación final única** examen (solicitar sin evaluación continua)

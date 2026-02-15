@@ -1,23 +1,23 @@
 **DISEÑO DE INTERFACES DE USUARIO**
 
-PLANIFICACION 2024/25: 3º Grado Informatica
+PLANIFICACION 2025/26: 3º Grado Informatica, v1.0 (15 Feb 2026)
 
 
 
-| Ses  | Teo                                                   | Sem                             | Concepto               | Ejercicio  | Práctica |
-| ---- | ----------------------------------------------------- | ------------------------------- | ---------------------- | ---------- | -------- |
-| 1    | 1. Introducción HCI Principios generales | S01. Una mirada al futuro / FUI | User Goals & needs     |            |          |
-| 2    | 2. El factor humano                                   | UX                              | Empatía                |            | P1       |
-| 3    | 3. Diseño Centrado en el Usuario | UX Research & toolkits | Personalidad           | Etnografía | P1       |
-| 4    | 3. Ideación & Prototipado | Wireframes & Mockups / **Figma** | Empathy Map & Rol Play |            | P2       |
-| 5    | 4. Estrategias de diseño | Moodboard |     | Moodboard inspiration | P2       |
-| 6    | Layout Web Design  * landing page | Desing Foundation: Color + Tipografía | Checklist Design | Web design checklist | P3      |
-|  |  |  | | |  |
-| 7    | Atomic Design & Design System | AutoLayout / componentes / **Figma** |   |   | P3      |
-| 8    |  Frameworks                      |  Mobile Design                 |                        |                              | P3       |
-| 9   | Design Systems | UI Libraries - Storybook |                          |   | P4 |
-| 10  |  Componentes/React  |         (landing demo)         |   | REdesign | P4      |
-| 11 | 5 Usabilidad | Eye Tracking | | Usabilidad | P4 |
-| 12 | Accesibilidad | WACG | |  | P5 |
-| 13 | UX Case Study | AWWWARDS | | Micro interaction Web Design | P5 |
-| 14 | 6. Tendencias (Vibe Coding) | MCP / AI design | | Vibe design | P5 |
+| S | Fecha | Teo                                                   | Sem                             | Concepto               | Ejercicio  | Práctica |
+| ---- | ----------------------------------------------------- | ------------------------------- | ---------------------- | ---------- | -------- | -------- |
+| 1 | 16/02 | 1. Introducción HCI Principios generales | S01. Una mirada al futuro / FUI | User Goals & needs |            |          |
+| 2  |     | 2. El factor humano                                   | S02. UX                       | Empatía                |            | P1       |
+| 3  |     | 3. Diseño Centrado en el Usuario | S03. UX Research & toolkits | Rol Play | Etnografía | P1       |
+| 4  |     | 3. Ideación & Prototipado | S04. Wireframes & Mockups / **Figma** |  |            | P2 |
+| 5   |     | 4. Estrategias de diseño | S05. Moodboard |     | Moodboard inspiration | P2       |
+| 6   |     | 4. Layout Web Design | S06. Desing Foundation | Checklist Design | Web design checklist | P3      |
+| 7 | 30/03 | **SEMANA SANTA** |  | | |  |
+| 8   |     | 4. Atomic Design & Design System | S07. AutoLayout / componentes / **Figma** |   |   | P3      |
+| 9   |     |  5 Frameworks                    |  Mobile Design                 |                    |                       | P3       |
+| 10 |    | S08. Design Systems | Componentes React |                          |   | P4 |
+| 11 |   |  UI Library - Storybook  |         (landing demo)         |   | Redesign | P4      |
+| 12 |  | 6. Usabilidad | Eye Tracking | | Usabilidad | P4 |
+| 13 |  | 6. Accesibilidad | WACG | | Accesibilidad | P5 |
+| 14 |  | UX Case Study | Design trends | | Micro interaction | P5 |
+| 15 |  | 7. Tendencias (Vibe Coding) | MCP / AI design | | Vibe design | P5 |
