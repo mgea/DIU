@@ -2,6 +2,8 @@
 ## Diseño de Interfaces de Usuario: Guía Docente 
 ETSI Informática y Telecomunicación, Universidad de Granada, Feb 2026
 
+![diulogo](./img/logo_diu25_mini.png)
+
 
 > [Descripción](https://www.ugr.es/estudiantes/grados/grado-ingenieria-informatica/diseno-interfaces-usuario-ing-software) oficial de la asignatura
 
@@ -45,16 +47,19 @@ ETSI Informática y Telecomunicación, Universidad de Granada, Feb 2026
 - UX Case Study
   
 
-### Prácticas
+
+
+### #Prácticas
+
 Guiones de prácticas curso 2025/26
 
 | Pract. | Descripción                                                  | Sesiones | Entrega |
 | ------ | ------------------------------------------------------------ | -------- | ------- |
-| P1     | [Revision IU/Usabilidad](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica1.md) | 2        | 14/03   |
-| P2     | [Ideación/Diseño](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica2.md) | 3        | 04/04   |
-| P3     | [Prototipado](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica3.md) | 3        | 09/05   |
-| P4     | [Componentes UI](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica5.md) | 2        | 23/05   |
-| P5     | [Evaluación Usabilidad: A/B y Accesibilidad](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica4.md) | 2        | 20/05   |
+| P1     | [Revision IU/Usabilidad](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica1.md) | 2        | 13/03   |
+| P2     | [Ideación/Diseño](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica2.md) | 2        |         |
+| P3     | [Prototipado](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica3.md) | 3        |         |
+| P4     | [Componentes UI](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica5.md) | 3        |         |
+| P5     | [Evaluación Usabilidad: A/B y Accesibilidad](https://mgea.github.io/UX_CaseStudy/#/GuionesPracticas/Practica4.md) | 3        |         |
 
 
 ## Material docente de apoyo
@@ -103,10 +108,12 @@ Recursos y utilidades:
 - **Ejercicios y prácticas en clase** (25%)
 
 >Actividad 1: Etnografía
-> Actividad en clase 2: Web design checklist
-> Actividad en clase 3: Moodboard
-> Actividad 4: Usabilidad
-> Actividad en clase 5: Accesibilidad
+>Actividad en clase 2: Web design checklist
+>Actividad en clase 3: Moodboard
+>Actividad 4: Usabilidad
+>Actividad en clase 5: Accesibilidad 
+>
+>(puede variar)
 
 - **Un examen/ejercicio final** (25%)
 

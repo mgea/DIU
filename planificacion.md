@@ -1,5 +1,7 @@
 **DISEÑO DE INTERFACES DE USUARIO**
 
+![diulogo](./img/logo_diu25_mini.png)
+
 PLANIFICACION 2025/26: 3º Grado Informatica, v1.0 (15 Feb 2026)
 
 

@@ -1,5 +1,7 @@
 # DIU: Diseño de Interfaces de Usuario 
 
+![diulogo](./img/logo_diu25_mini.png)
+
 Curso 2025/26
 
 * [Guía Docente](GuiaDocente.md)
@@ -46,5 +48,4 @@ Recopilación de **mejores prácticas realizadas dentro de la asignatura** [Dise
 <br> 
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png"  width="75" > Miguel Gea, updated: 2026
-
 

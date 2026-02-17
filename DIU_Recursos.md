@@ -193,6 +193,8 @@ Recursos para el Diseño de Interacción y experiencia de usuario
 
 #### **Eye Tracking** 
 
+* GazeMapping (CCBYNCSA mgea) https://github.com/mgea/Gazemapping
+* WebGazer.js (GLPv3) https://webgazer.cs.brown.edu/
 * Gaze (Web) Recorder https://gazerecorder.com/ 
 * Screen web recorder https://screen-rec.vercel.app/
 
@@ -317,7 +319,7 @@ Recursos para el Diseño de Interacción y experiencia de usuario
 
 ---
 
-CCBY Miguel Gea, https://mgea.github.io/DIU/ Diseño de Interfaces de Usuario, 2021-24
+CCBY Miguel Gea, https://mgea.github.io/DIU/ Diseño de Interfaces de Usuario, 2021-26
 
 Universidad de Granada 
 
