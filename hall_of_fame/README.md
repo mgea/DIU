@@ -62,7 +62,7 @@ updated: 21/02/2025
 
 ## Selección 2026 sobre Sabores con Encanto 
 
-* NeoQarmita (café/librería) - [DIU2.Errores404](https://github.com/jxliian/Errores404_DIU2_2526)
+* **NeoQarmita** (café/librería) - [DIU2.Errores404](https://github.com/jxliian/Errores404_DIU2_2526)
 * 
 
 ----
