@@ -60,6 +60,11 @@ updated: 21/02/2025
 * **Artea** [Grupo3.Clave](https://github.com/DIU3-CLAVE/UX_CaseStudy)
 
 
+## Selección 2026 sobre Sabores con Encanto 
+
+* NeoQarmita (café/librería) - [DIU2.Errores404](https://github.com/jxliian/Errores404_DIU2_2526)
+* 
+
 ----
 
 CCBY Equipo docente: [@mgea](https://github.com/mgea/), [@rosanamontes](https://github.com/rosanamontes) [@deantares](https://github.com/deantares)  Junio 2020-26
