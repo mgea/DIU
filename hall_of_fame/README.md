@@ -65,6 +65,9 @@ updated: 21/02/2025
 * **NeoQarmita** (café/librería) - [DIU2.Errores404](https://github.com/jxliian/Errores404_DIU2_2526)
 * **Umai! 旨い** [DIU1_MIDAS](https://github.com/DeltaCeleste/Midas)
 * **Ramen や Noodles Pa'ya** - [DIU1_PAYA](https://github.com/PH0DARM/UX_CaseStudy)
+* **Goiko Finder** [DIUGrupoColesterMax](https://github.com/DIUGrupoColesterMax/UX_CaseStudyColesterMax)
+* **Goiko Experience** [DIU3-QBB](https://github.com/DIU3-QBB/UX_CaseStudy)
+* **ClearBurguer** [DIU3-DarkPatterns](https://github.com/DIU3-DarkPatterns/UX_CaseStudy)
 
 ----
 
