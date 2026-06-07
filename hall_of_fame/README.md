@@ -63,7 +63,8 @@ updated: 21/02/2025
 ## Selección 2026 sobre Sabores con Encanto 
 
 * **NeoQarmita** (café/librería) - [DIU2.Errores404](https://github.com/jxliian/Errores404_DIU2_2526)
-* 
+* **Umai! 旨い** DIU1_MIDAS (https://github.com/DeltaCeleste/Midas)
+* **Ramen や Noodles Pa'ya** - DIU1_PAYA (https://github.com/PH0DARM/UX_CaseStudy)
 
 ----
 
