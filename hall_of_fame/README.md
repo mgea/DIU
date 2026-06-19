@@ -69,6 +69,9 @@ updated: 21/02/2025
 * **Goiko Experience** [DIU3-QBB](https://github.com/DIU3-QBB/UX_CaseStudy)
 * **ClearBurguer** [DIU3-DarkPatterns](https://github.com/DIU3-DarkPatterns/UX_CaseStudy)
 
+* **Actividad**: Orla de Porfolios mediante estilo Neo Brutalism con Figma Make [Porfolio DIU-26](https://github.com/mgea/UserInterfaceDesignBoard/)
+* **Porfolio Conclusiones DIU-26** de [GAM-26](https://www.figma.com/make/YLs98qWI9y39k3NzPiiMG5/Neobrutalist-Portfolio-Template?code-node-id=0-9&p=f&t=I28zrCcSklON06tE-0&fullscreen=1)
+
 ----
 
 CCBY Equipo docente: [@mgea](https://github.com/mgea/), [@rosanamontes](https://github.com/rosanamontes) [@deantares](https://github.com/deantares)  Junio 2020-26
