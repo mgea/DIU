@@ -59,6 +59,18 @@ updated: 21/02/2025
 * **Artea** [Grupo3.Clave](https://github.com/DIU3-CLAVE/UX_CaseStudy)
 
 
+## Selección 2026 sobre Sabores con Encanto 
+
+* **NeoQarmita** (café/librería) - [DIU2.Errores404](https://github.com/jxliian/Errores404_DIU2_2526)
+* **Umai! 旨い** [DIU1_MIDAS](https://github.com/DeltaCeleste/Midas)
+* **Ramen や Noodles Pa'ya** - [DIU1_PAYA](https://github.com/PH0DARM/UX_CaseStudy)
+* **Goiko Finder** [DIUGrupoColesterMax](https://github.com/DIUGrupoColesterMax/UX_CaseStudyColesterMax)
+* **Goiko Experience** [DIU3-QBB](https://github.com/DIU3-QBB/UX_CaseStudy)
+* **ClearBurguer** [DIU3-DarkPatterns](https://github.com/DIU3-DarkPatterns/UX_CaseStudy)
+
+* **Actividad**: Orla de Porfolios mediante estilo Neo Brutalism con Figma Make [Porfolio DIU-26](https://github.com/mgea/UserInterfaceDesignBoard/)
+* **Porfolio Conclusiones DIU-26** de [GAM-26](https://www.figma.com/make/YLs98qWI9y39k3NzPiiMG5/Neobrutalist-Portfolio-Template?code-node-id=0-9&p=f&t=I28zrCcSklON06tE-0&fullscreen=1)
+
 ----
 
 CCBY Equipo docente: [@mgea](https://github.com/mgea/), [@rosanamontes](https://github.com/rosanamontes) [@deantares](https://github.com/deantares)  Junio 2020-26

@@ -1,7 +1,7 @@
 <!-- _coverpage.md -->
 
 
-# Diseño de Interfaces de Usuario 2024/25
+# Diseño de Interfaces de Usuario 
  
 
 
@@ -14,7 +14,7 @@
 
 ### Contenido y recursos de la asignatura 
 
-#### ETSI Informática y Telecomunicación. Universidad de Granada, 2025
+#### ETSI Informática y Telecomunicación. Universidad de Granada
 
 
 
