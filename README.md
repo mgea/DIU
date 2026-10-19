@@ -25,14 +25,12 @@ Curso 2025/26
 ## Recursos 
 
 * [UX_CaseStudy](https://github.com/mgea/UX_CaseStudy) [alt](https://mgea.github.io/UX_CaseStudy/) Plantilla (repositorio de documentación en Github) para diseño y apoyo en prácticas 
-* [UX-DIU-Toolkit](https://github.com/mgea/UX-DIU-Toolkit) Herramienta para diseño de experiencia de usuarios (personas y mapa de experiencia de usuario)
-* [UX-DIU-Checklist](https://github.com/mgea/UX-DIU-Checklist) Toolkit de apoyo para diseño y evaluación de prácticas. Online version: https://mgea.github.io/UX-DIU-Checklist
+* [DIU Software y Utilidades](DIU_Software.md) **Software** diseñado para el **apoyo a prácticas** y diseño 
 
-* [GazeMapping](https://github.com/mgea/GazeMapping) Web Eye Tracking Analysis & Heatmap Visualization tool especialmente diseñado para la parte de técnicas de Usabilidad de la asignatura ``[new 2026]``
-* [EtnograUX](https://mgea.github.io/etnograUX/) gestión, visualización, análisis cualitativo, validación y exportación de **estudios etnográficos** de campo aplicados al Diseño de Interacción y Experiencia de Usuario (UX). ``[new 2027]``
 * [DIU RESOURCES](https://github.com/mgea/DIU/blob/master/DIU_Recursos.md) Recursos de inspiración, herramientas de apoyo al diseño
-* 
 * [Actividades de clase](./actividades/readme.md)
+
+
 
 ## HALL OF FAME 
 
